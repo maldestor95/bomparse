@@ -1,0 +1,100 @@
+NOMCODE,QTY,PART NUMBER,FABRICANT,PART DESC,REFERENCE,VALUE,TENSION,TOLE,NOTE
+185-0700,1,,TDK,Condensateur 0402 X5R,C1,100nF,16V,20%,
+185-0700,1,,TDK,Condensateur 0402 X5R,C2,100nF,16V,20%,
+185-0700,1,,TDK,Condensateur 0402 X5R,C3,100nF,16V,20%,
+181-0545,1,293D106X96R3A2WE3,Vishay,Condensateur tantale cms taille A,C4,10�F,6.3V,10%,
+182-0591,1,08052U150GAT2A,AVX,Condensateur cms 0805- COG- ultra faible ESR,C5,15pF,200V,2%,Farnell : 7568541
+181-0545,1,293D106X96R3A2WE3,Vishay,Condensateur tantale cms taille A,C6,10�F,6.3V,10%,
+SANS,1,08052U3R9BAT2A,AVX,Condensateur cms 0805 NPO ou COG,C7,NC,200V,+/-0.1pF,Farnell : 7568460
+SANS,1,,AVX,Condensateur cms 0805 NPO ou COG,C8,NC,200V,,Farnell : 7568541
+182-0591,1,08052U150GAT2A,AVX,Condensateur cms 0805- COG- ultra faible ESR,C9,15pF,200V,2%,Farnell : 7568541
+182-0605,1,08051A270JAT2A,AVX,Condensateur cms 0805 NPO ou COG,C10,27pF,100V,5%,Farnell : 1740652
+182-0720,1,08051A102JAT2A,AVX,Condensateur cms 0805,C11,1nF,100V,5%,Farnell : 1740662
+181-0542,1,293D475X9016A2WE3,Vishay,Condensateur tantale cms taille A,C12,4.7�F,16V,10%,
+180-0882,1,5601,Johanson,Condensateur ajustable,C13,1-30pF,250V,,
+180-0882,1,5601,Johanson,Condensateur ajustable,C14,1-30pF,250V,,
+182-0594,1,08051A180JAT2A,AVX,Condensateur cms 0805 NPO ou COG,C15,18pF,100V,5%,Farnell : 1741651
+210-0615,1,BZV55C15,Philips,Diode Zener cms,D1,15V,,,
+280-0370,1,KP-2012PBC,Kingbright,Led cms 0805,D2,Bleue,,,
+280-0350,1,KP-2012MGC,Kingbright,Led cms 0805,D3,Verte,,,
+280-0340,1,KP-2012SRC-PRV,Kingbright,Led cms 0805,D4,Rouge,,,
+210-0541,1,BAR43S,Fairchild,Double diode schottky,D5,,,,RS : 670-8779
+210-0541,1,BAR43S,Fairchild,Double diode schottky,D6,,,,RS : 670-8779
+190-6000,1,166.42.2520.001,IMS,Embase SMA- femelle- coud�e- 50 ohms,J1,,,,RS : 205-1353
+190-4041,1,HDMR-19-02-S-SM,Samtec,Embase HDMI 19 pattes- m�le- coud�e,J2,,,,
+190-6000,1,166.42.2520.001,IMS,Embase SMA- femelle- coud�e- 50 ohms,J3,,,,RS : 205-1353
+190-1101,1,22-05-7028,Molex,Mini KK 2 points m�le coud�- pas 2.54 mm,J4,,,,RS : 173-2916
+190-6001,1,142.11.1520.001,Radiospares,Embase SMA femelle- droite,J5,NC,,,RS : 546-3276
+395-0287,1,MS05-1A87-75D,Meder electronic,Relais 1T 5V micro SIL NO,K1,,,,
+395-0288,1,MS05-1B87-78D,Meder electronic,Relais 1T 5V micro SIL NC,K2,,,,
+395-0287,1,MS05-1A87-75D,Meder electronic,Relais 1T 5V micro SIL NO,K3,,,,
+395-0288,1,MS05-1B87-78D,Meder electronic,Relais 1T 5V micro SIL NC,K4,,,,
+395-0287,1,MS05-1A87-75D,Meder electronic,Relais 1T 5V micro SIL NO,K5,,,,
+395-0288,1,MS05-1B87-78D,Meder electronic,Relais 1T 5V micro SIL NC,K6,,,,
+395-0287,1,MS05-1A87-75D,Meder electronic,Relais 1T 5V micro SIL NO,K7,,,,
+395-0288,1,MS05-1B87-78D,Meder electronic,Relais 1T 5V micro SIL NC,K8,,,,
+395-0288,1,MS05-1B87-78D,Meder electronic,Relais 1T 5V micro SIL NC,K9,,,,
+SANS,1,,,Antenne pour TCL3,L1,NC,,,Couche bottom sur layer 20
+183-0950,1,BLM21PG300SN1D,Murata,Ferrite cms 0805- 30 ohms � 100 MHz- 3A.,L2,,,,
+SANS,1,,,Point test sur CI,PT1,NC,,,
+SANS,1,,,Point test sur CI,PT2,NC,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q1,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q2,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q3,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q4,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q5,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q6,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q7,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q8,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q9,,,,
+470-0131,1,ZVN3310F,Zetex,Transistor cms mosfet canal N,Q10,,,,
+470-0500,1,BCV61C,Infineon,Transistor double NPN- mirroir de courant,Q11,,,,
+472-0500,1,BSS138LTxG,On Semiconductor,Transistor cms mosfet canal N,Q12,,,,RS : 436-5402
+472-0500,1,BSS138LTxG,On Semiconductor,Transistor cms mosfet canal N,Q13,,,,RS : 436-5402
+472-0500,1,BSS138LTxG,On Semiconductor,Transistor cms mosfet canal N,Q14,,,,RS : 436-5402
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R1,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R2,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R3,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R4,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R5,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R6,1R,,1%,Farnell : 1717879
+619-1100,1,,Vishay,R�sistance CMS 0402,R7,10k,,1%,
+612-0510,1,MC 0.1W 0805 1% 51R,Multicomp,R�sistance CMS 0805,R8,51R,,1%,Farnell : 9333355
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R9,1R,,1%,Farnell : 1717879
+602-0010,1,ERJ8BQF1R0V,Panasonic,R�sistance CMS 1206- 0.33W,R10,1R,,1%,Farnell : 1717879
+619-1100,1,,Vishay,R�sistance CMS 0402,R11,10k,,1%,
+619-1000,1,,Vishay,R�sistance CMS 0402,R12,1k,,1%,
+619-1000,1,,Vishay,R�sistance CMS 0402,R13,1k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R14,10k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R15,10k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R16,10k,,1%,
+619-1047,1,,Vishay,R�sistance CMS 0402,R17,4.7k,,1%,
+619-1047,1,,Vishay,R�sistance CMS 0402,R18,4.7k,,1%,
+619-1000,1,,Vishay,R�sistance CMS 0402,R19,1k,,1%,
+619-1022,1,,Vishay,R�sistance CMS 0402,R20,2.2k,,1%,
+619-1022,1,,Vishay,R�sistance CMS 0402,R21,2.2k,,1%,
+619-0100,1,,Vishay,R�sistance CMS 0402,R22,100R,,1%,
+619-1022,1,,Vishay,R�sistance CMS 0402,R23,2.2k,,1%,
+619-0100,1,,Vishay,R�sistance CMS 0402,R24,100R,,1%,
+619-0100,1,,Vishay,R�sistance CMS 0402,R25,100R,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R26,10k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R27,10k,,1%,
+615-0820,1,ERJP03F91R0V,Vishay,R�sistance CMS 0603,R28,82R,,1%,RS : 721-7252
+611-0190,1,MC 0.1W 0805 1% 820R,Multicomp,R�sistance CMS 0805,R29,820R,,1%,Farnell : 9333576
+612-3300,1,MC 0.1W 0805 1% 330R,Multicomp,R�sistance CMS 0805,R30,330R,,1%,Farnell : 9333037
+612-2000,1,MC 0.1W 0805 1% 200R,Multicomp,R�sistance CMS 0805,R31,200R,,1%,Farnell : 9332758
+612-0680,1,MC 0.1W 0805 1% 68R,Multicomp,R�sistance CMS 0805,R32,68R,,1%,Farnell : 9333509
+619-1100,1,,Vishay,R�sistance CMS 0402,R33,10k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R34,10k,,1%,
+619-1100,1,,Vishay,R�sistance CMS 0402,R35,10k,,1%,
+SANS,1,,,,R36,NC,,,
+612-0000,1,MC 0.1W 0805 0R,Multicomp,R�sistance CMS 0805,R37,0R,,,Farnell : 9333681
+611-2201,1,MC 0.1W 0805 1% 51k,Multicomp,R�sistance CMS 0805,R38,51k,,1%,Farnell : 9333339
+616-0120,1,,Vishay,R�sistance CMS 0603,R39,1.2k,,1%,
+615-8200,1,,Vishay,R�sistance CMS 0603,R40,820R,,1%,
+6160150+,1,,Vishay,R�sistance CMS 0603,R41,1.5k,,1%,
+184-0480,1,ACM3225-102-2P-T,TDK,Filtre de mode commun- 1k � 100 MHz,TX1,1k,,,20V - 200 mA
+135-0145,1,PCA9538PW,NXP,Port I2C 8 bits,U1,,,,
+135-0145,1,PCA9538PW,NXP,Port I2C 8 bits,U2,,,,
+330-0387,1,24LC64I/SNG,Microchip,EEPROM I2C 64K,U3,,,,
+180-0882,1,5601,Johanson,Condensateur ajustable,VC1A,1-30pF,250V,,
